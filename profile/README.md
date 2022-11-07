@@ -5,7 +5,7 @@
 Get started for free at [radar.com](https://radar.com). You can create an account and get building right away, or get a demo if you're looking for additional help. Radar also has [a mobile app called Toolkit](https://radar.com/documentation/toolkit) where you can test the SDK without having to write any additional code.
 
 ## 📖 How Radar works
-[Start with the docs](https://radar.com/documentation) to understand how to start building with Radar. The docs contain how to use [Radar's SDKs](https://radar.com/documentation/sdk), [API specs](https://radar.com/documentation/api), and [tutorials](https://radar.com/documentation/tutorials).
+[Start with the docs](https://radar.com/documentation) to understand how to get building with Radar. The docs contain how to use [Radar's SDKs](https://radar.com/documentation/sdk), [API specs](https://radar.com/documentation/api), and [tutorials](https://radar.com/documentation/tutorials).
 
 ## ✨ Open source SDKs
 Radar's SDKs are open source so you can read through them for yourself. We love PRs and issues, so if you see anything or have a question, feel free to drop us a note.
