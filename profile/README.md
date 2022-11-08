@@ -1,6 +1,9 @@
 ## 👋 Hey from Radar
 [Radar](https://radar.com) is a location platform for developers — think of it like a Location OS to build experiences with geofencing, trip tracking, and geocoding. Thousands of developers already use Radar's SDKs and APIs to create product experiences like pickup and delivery tracking, location-triggered notifications, location verification, store locators, address autocomplete, and more.
 
+[<img src="https://user-images.githubusercontent.com/2132776/200652349-c3db122c-9d84-439f-b1e3-ccaa4b461be9.png" width="100px">](https://radar.com/signup)
+
+
 ## 🏃‍♀️ Getting started
 Get started for free at [radar.com](https://radar.com). You can create an account and get building right away, or get a demo if you're looking for additional help. Radar also has [a mobile app called Toolkit](https://radar.com/documentation/toolkit) where you can test the SDK without having to write any additional code.
 
