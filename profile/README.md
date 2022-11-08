@@ -10,7 +10,7 @@ Get started for free at [radar.com](https://radar.com). You can create an accoun
 ## ✨ Open source SDKs
 Radar's SDKs are open source so you can read through them for yourself. We love PRs and issues, so if you see anything or have a question, feel free to drop us a note.
 
-- [iOS SDK](https://github.com/radarlabs/radar-ios-android)
+- [iOS SDK](https://github.com/radarlabs/radar-sdk-ios)
 - [Android SDK](https://github.com/radarlabs/radar-sdk-android)
 - [React Native SDK](https://github.com/radarlabs/react-native-radar)
 - [Capacitor SDK](https://github.com/radarlabs/capacitor-radar)
