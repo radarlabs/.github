@@ -1,6 +1,7 @@
 name: Radar Deploy
 
-schedule:
+on:
+  schedule:
     # Run this at 10am every weekday
     # * is a special character in YAML so you have to quote this string
     - cron:  '0 11 * * 1-5'
@@ -17,5 +18,5 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           title: Deploy
-          source_branch=master
-          target_branch=production
+          source_branch: master
+          target_branch: production
