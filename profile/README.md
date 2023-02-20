@@ -6,7 +6,9 @@
 
 Visit us at [https://radar.com](https://radar.com). You can create an account and get API keys right away, or get a demo if you're looking for additional help.
 
-All of our SDKs are open-source. We love PRs and issues, so if you see anything or have a question, feel free to drop us a note.
+## 🏗 Open-source SDKs
+
+All of our SDKs are open-source. We love PRs and issues, so if you see anything or have a question, feel free to drop us a note!
 
 - [iOS SDK](https://github.com/radarlabs/radar-sdk-ios)
 - [Android SDK](https://github.com/radarlabs/radar-sdk-android)
