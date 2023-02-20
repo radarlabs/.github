@@ -1,4 +1,8 @@
+## 📍 About Radar
+
 [Radar](https://radar.com) is location infrastructure for every product and service. Developers use our hyper-accurate location tracking and geofencing SDKs and cost-effective geocoding APIs to power location-based experiences across hundreds of millions of devices worldwide.
+
+## ✨ Get started
 
 Visit us at [https://radar.com](https://radar.com). You can create an account and get API keys right away, or get a demo if you're looking for additional help.
 
