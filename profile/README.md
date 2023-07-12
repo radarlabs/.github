@@ -1,6 +1,6 @@
 ## 📍 About Radar
 
-[Radar](https://radar.com) is location infrastructure for mobile apps and websites. Thousands of developers trust Radar's geofencing SDKs and maps APIs to power location-based experiences across hundreds of millions of devices worldwide.
+[Radar](https://radar.com) is location infrastructure for mobile and web apps. Thousands of developers trust Radar's geofencing SDKs and maps APIs to power location-based experiences across hundreds of millions of devices worldwide.
 
 ## ✨ Get started
 
